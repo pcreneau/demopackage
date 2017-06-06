@@ -1,7 +1,7 @@
 Package: demopackage
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.1.0
+Version: 0.0.0
 Author@R: c(person("pcr",role=c("aut"","cre""),email="pcreneu@usgs.gov")
 Author: Who wrote it
 Maintainer: who wrote it <yourself@somewhere.net>
